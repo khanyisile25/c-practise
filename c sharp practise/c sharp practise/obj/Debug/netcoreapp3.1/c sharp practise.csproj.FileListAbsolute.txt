@@ -1,0 +1,4 @@
+C:\Users\TC-22\source\repos\c sharp practise\c sharp practise\obj\Debug\netcoreapp3.1\c sharp practise.csprojAssemblyReference.cache
+C:\Users\TC-22\source\repos\c sharp practise\c sharp practise\obj\Debug\netcoreapp3.1\c sharp practise.AssemblyInfoInputs.cache
+C:\Users\TC-22\source\repos\c sharp practise\c sharp practise\obj\Debug\netcoreapp3.1\c sharp practise.AssemblyInfo.cs
+C:\Users\TC-22\source\repos\c sharp practise\c sharp practise\obj\Debug\netcoreapp3.1\c sharp practise.csproj.CoreCompileInputs.cache
